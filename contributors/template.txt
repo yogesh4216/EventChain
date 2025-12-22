@@ -1,0 +1,5 @@
+# This is the template for contributors!
+
+Github: bitflipper19
+College: IIIT Allahabad
+Roll no: IEC20xxyyy

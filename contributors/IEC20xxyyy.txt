@@ -1,6 +1,0 @@
-# This is the template for contributors!
-
-Roll no: IEC20xxyyy
-College: IIIT Allahabad
-Github: bitflipper19
-ISSUE000: <figma_link>
